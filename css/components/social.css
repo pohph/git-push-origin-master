@@ -1,0 +1,16 @@
+.social-list{
+  list-style: none;
+  text-align: center;
+
+}
+
+.social-list li{
+  display:inline-block
+}
+
+.social-icon{
+  font-size: 32px;
+  color:green;
+  margin: 0 20px;
+
+}

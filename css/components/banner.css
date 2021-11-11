@@ -1,0 +1,25 @@
+
+.banner{
+  background-image: url(../../images/background.png);
+  height: 500px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.banner-content > h1{
+  color: white;
+  font-weight: bold;
+}
+
+.banner-content > p{
+  color: rgb(102, 98, 98);
+  padding-bottom: 50px;
+}
+
+.banner-content > a{
+  background-color: green;
+  color: white;
+  padding: 12px 12px;
+  border-radius: 30px;
+}
